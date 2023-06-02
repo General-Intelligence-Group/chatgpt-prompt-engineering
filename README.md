@@ -1,5 +1,5 @@
 # ChatGPT Prompt Engineering für Entwickler
-Jupyter Code-Notizbücher von "ChatGPT Prompt Engineering for Developers".
+Jupyter Code-Notizbücher von "ChatGPT Prompt Engineering für Entwickler".
 
 In ChatGPT Prompt Engineering for Developers lernst du, wie man ein großes Sprachmodell (LLM) verwendet, um schnell neue und leistungsstarke Anwendungen zu erstellen.  Mit Hilfe der OpenAI API gelingt es dir, in kürzester Zeit Fähigkeiten zu entwickeln, mit denen du lernst, innovativ zu sein und Werte auf eine Art und Weise zu schaffen, die bisher kostenintensiv, hochtechnisch oder einfach unmöglich war.
 
